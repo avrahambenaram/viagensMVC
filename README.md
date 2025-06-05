@@ -14,7 +14,6 @@ Este projeto é uma aplicação web de uma agência de viagens, desenvolvida uti
 ## Pré-requisitos
 
 - Java 21 instalado  
-- Docker e Docker Compose instalados  
 - Maven instalado  
 
 ## Como Executar o Projeto
